@@ -1,4 +1,4 @@
-# ranked_choice
+# ranked-choice
 
 Custom Python ranked choice voting script integrated with Google Sheets.
 * [Custom Google Sheet](https://docs.google.com/spreadsheets/d/1XMp85fU0Gh7i_sawUHnxw3P_4iQK4HmnL4iXY8rF8wI/copy)
